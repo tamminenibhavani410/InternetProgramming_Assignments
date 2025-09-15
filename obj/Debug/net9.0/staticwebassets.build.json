@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kK5mJ8A1X0ESAnsmRSy76IHZ5NExJW0GbXwQP7GhvXw=",
+  "Hash": "f0p2HmgzBruL4gr+p7SXCeO3qwdwp+vOKo0h8fqkTl0=",
   "Source": "MetricSystem",
   "BasePath": "_content/MetricSystem",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-9r48337x4p.gz",
+      "Identity": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-jidpofbehv.gz",
       "SourceId": "MetricSystem",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MetricSystem",
-      "RelativePath": "css/site#[.{fingerprint=9r48337x4p}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=jidpofbehv}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8wvy4v7zgm",
-      "Integrity": "CJoitbE4a0C1pADtuhtUyygQydt78hqGvqSv2J2c4Q8=",
+      "Fingerprint": "27hiogv0b3",
+      "Integrity": "jm9YvPoqdQBas6kba0MzmGbviyqztEklTv+iugFrYGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9r48337x4p",
-      "Integrity": "67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8=",
+      "Fingerprint": "jidpofbehv",
+      "Integrity": "q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1443,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\images\\bg-image.png",
+      "SourceId": "MetricSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\",
+      "BasePath": "_content/MetricSystem",
+      "RelativePath": "images/bg-image#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "17lgcxwwh7",
+      "Integrity": "s4BKHHOJHBDneiGBHcVl1dwRQjOxCPeJUFKInwebFDY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bg-image.png"
     },
     {
       "Identity": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\js\\site.js",
@@ -2728,13 +2749,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.9r48337x4p.css",
-      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-9r48337x4p.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-jidpofbehv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004716981132"
+          "Quality": "0.001658374793"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2765,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "211"
+          "Value": "602"
         },
         {
           "Name": "ETag",
-          "Value": "\"CJoitbE4a0C1pADtuhtUyygQydt78hqGvqSv2J2c4Q8=\""
+          "Value": "\"jm9YvPoqdQBas6kba0MzmGbviyqztEklTv+iugFrYGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 01:01:13 GMT"
+          "Value": "Mon, 15 Sep 2025 02:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2793,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8=\""
+          "Value": "W/\"q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "9r48337x4p"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8="
+          "Value": "sha256-q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA="
         }
       ]
     },
     {
-      "Route": "css/site.9r48337x4p.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "334"
+          "Value": "1465"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2822,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8=\""
+          "Value": "\"q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 01:01:13 GMT"
+          "Value": "Mon, 15 Sep 2025 02:50:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-jidpofbehv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jm9YvPoqdQBas6kba0MzmGbviyqztEklTv+iugFrYGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Sep 2025 02:50:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jm9YvPoqdQBas6kba0MzmGbviyqztEklTv+iugFrYGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jidpofbehv.css",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-jidpofbehv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001658374793"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "602"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jm9YvPoqdQBas6kba0MzmGbviyqztEklTv+iugFrYGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Sep 2025 02:50:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jidpofbehv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jidpofbehv.css",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Sep 2025 02:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2981,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9r48337x4p"
+          "Value": "jidpofbehv"
         },
         {
           "Name": "label",
@@ -2831,13 +2989,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8="
+          "Value": "sha256-q/SCmG9kHnYuO3fh46FIXoBM/w8WGymJKoVMX3MJQeA="
         }
       ]
     },
     {
-      "Route": "css/site.9r48337x4p.css.gz",
-      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-9r48337x4p.gz",
+      "Route": "css/site.jidpofbehv.css.gz",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-jidpofbehv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +3004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "211"
+          "Value": "602"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +3012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CJoitbE4a0C1pADtuhtUyygQydt78hqGvqSv2J2c4Q8=\""
+          "Value": "\"jm9YvPoqdQBas6kba0MzmGbviyqztEklTv+iugFrYGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 01:01:13 GMT"
+          "Value": "Mon, 15 Sep 2025 02:50:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9r48337x4p"
+          "Value": "jidpofbehv"
         },
         {
           "Name": "label",
@@ -2884,144 +3042,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CJoitbE4a0C1pADtuhtUyygQydt78hqGvqSv2J2c4Q8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-9r48337x4p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004716981132"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "211"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CJoitbE4a0C1pADtuhtUyygQydt78hqGvqSv2J2c4Q8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 01:01:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "334"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 01:01:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-67ZlKZP0Ux7bBxSEITaXvJWgD5qDypyk5xqVstIxIt8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\obj\\Debug\\net9.0\\compressed\\0gdcj2837i-9r48337x4p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CJoitbE4a0C1pADtuhtUyygQydt78hqGvqSv2J2c4Q8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 01:01:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CJoitbE4a0C1pADtuhtUyygQydt78hqGvqSv2J2c4Q8="
+          "Value": "sha256-jm9YvPoqdQBas6kba0MzmGbviyqztEklTv+iugFrYGo="
         }
       ]
     },
@@ -3320,6 +3341,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/bg-image.17lgcxwwh7.png",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\images\\bg-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4BKHHOJHBDneiGBHcVl1dwRQjOxCPeJUFKInwebFDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Sep 2025 02:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17lgcxwwh7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bg-image.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4BKHHOJHBDneiGBHcVl1dwRQjOxCPeJUFKInwebFDY="
+        }
+      ]
+    },
+    {
+      "Route": "images/bg-image.png",
+      "AssetFile": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\images\\bg-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "411992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4BKHHOJHBDneiGBHcVl1dwRQjOxCPeJUFKInwebFDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 15 Sep 2025 02:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4BKHHOJHBDneiGBHcVl1dwRQjOxCPeJUFKInwebFDY="
         }
       ]
     },

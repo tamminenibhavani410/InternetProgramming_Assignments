@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\images\\bg-image.png",
+      "PackagePath": "staticwebassets\\images\\bg-image.png"
+    },
+    {
       "Id": "C:\\Users\\yache\\OneDrive\\Desktop\\Juo_J\\BhavaniChowdary\\MetricSystem\\MetricSystem\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

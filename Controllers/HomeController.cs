@@ -1,4 +1,3 @@
-using MetricSystem.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MetricSystem.Controllers
@@ -8,17 +7,12 @@ namespace MetricSystem.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View(new MetricSystemModel());
+            return View();
         }
-
-        [HttpPost]
-        public IActionResult Index(MetricSystemModel model)
+        [HttpGet]
+        public IActionResult Privacy()
         {
-            if (ModelState.IsValid)
-            {
-                model.ConvertToCelsius();
-            }
-            return View(model);
+            return View();
         }
     }
 }

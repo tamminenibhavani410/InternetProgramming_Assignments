@@ -17,7 +17,6 @@ C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\scopedcss\bundle\MetricSystem.styles.css
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\scopedcss\projectbundle\MetricSystem.bundle.scp.css
-C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\compressed\0gdcj2837i-9r48337x4p.gz
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\compressed\g4c0ehcmp2-61n19gt1b8.gz
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\compressed\9zf83ut1p5-xtxxf3hu2r.gz
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\compressed\sylgc7u6ua-bqjiyaj88i.gz
@@ -96,3 +95,5 @@ C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\MetricSystem.pdb
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\MetricSystem.genruntimeconfig.cache
 C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\ref\MetricSystem.dll
+C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\MetricSystem.sourcelink.json
+C:\Users\yache\OneDrive\Desktop\Juo_J\BhavaniChowdary\MetricSystem\MetricSystem\obj\Debug\net9.0\compressed\0gdcj2837i-jidpofbehv.gz
